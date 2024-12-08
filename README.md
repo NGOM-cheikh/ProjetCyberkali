@@ -54,21 +54,7 @@ Ce projet consiste à analyser une infrastructure existante pour identifier les 
      - **foremost** : pour analyser les données récupérables.
 2. **Application Laravel** :
    - Effectuer un audit de l'application hébergée sur `http://45.86.36.184/public/`.
-   - Identifier les vulnérabilités potentielles liées à **Apache** et **OpenSSH**.
-
----
-
-## **Travaux à Rendre**
-### **Date limite :** 09/12/2024  
-### **Format du livrable :**
-- Fichier en PDF, Word ou PowerPoint contenant :
-  - Une **analyse** des tests de vulnérabilités.
-  - Les **procédures** des tests réalisés.
-  - Les **préconisations** pour renforcer la sécurité.
-
-### **Modalités de soumission :**
-- Déposer le projet sur **GitHub**.
-- Inviter le compte GitHub suivant : `germain72`.
+   - Identifier les vulnérabilités potentielles liées à **Apache** et **OpenSSH**
 
 ---
 
