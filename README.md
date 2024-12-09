@@ -67,6 +67,7 @@ Ce projet consiste à analyser une infrastructure existante pour identifier les 
   - nmap
   - httrack
   - foremost
+  - nikto
 
 ---
 
